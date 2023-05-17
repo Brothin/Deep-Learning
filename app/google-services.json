@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "951774710858",
+    "project_id": "deep-learning-205c4",
+    "storage_bucket": "deep-learning-205c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951774710858:android:aaa426e35a700b8af96ab3",
+        "android_client_info": {
+          "package_name": "com.example.deeplearning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951774710858-7c6q7plof4brcosu59v0g8mtnibh4e0r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2rb5ndduTyZsBjxQAqxpKMGpT9Dj9YXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951774710858-7c6q7plof4brcosu59v0g8mtnibh4e0r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
